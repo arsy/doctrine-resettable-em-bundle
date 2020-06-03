@@ -1,5 +1,5 @@
 {
-  "name": "pixelfederation/doctrine-resettable-em-bundle",
+  "name": "arsy/doctrine-resettable-em-bundle",
   "homepage": "https://github.com/pixelfederation/doctrine-resettable-em-bundle",
   "type": "symfony-bundle",
   "description": "Symfony bundle for decorating default entity managers using a resettable decorator.",
